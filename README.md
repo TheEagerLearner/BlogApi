@@ -8,7 +8,6 @@
 - body-parser
 - mongoose
 
----
 
 #### Steps to run the API on yoour local systems
 1. clone project on your system
@@ -40,7 +39,7 @@ The app will start running at http://localhost:3000
 
 
 ## Explore Rest APIs
----
+
 The app defines following CRUD APIs.
 
 ### Blog
