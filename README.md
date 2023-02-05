@@ -13,20 +13,28 @@
 #### Steps to run the API on yoour local systems
 1. clone project on your system
 
-``$ git clone https://github.com/TheEagerLearner/BlogApi.git``
+```bash
+$ git clone https://github.com/TheEagerLearner/BlogApi.git
+```
 
 2. install dependencies
 
-``$ npm install``
+```bash
+$ npm install
+```
 
 3. start mongodb server
 
-``$ mongod``
+```bash
+$ mongod
+```
 
 
 4. start API
 
-``$ npm start``
+```bash
+$ npm start
+```
 
 The app will start running at http://localhost:3000
 
